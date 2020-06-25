@@ -5,11 +5,12 @@ var config = {
     texts: [
         "To the ",      // comma at end of every sentence
         "Sweetest girl I know",  // same as above
+        " 🎂🎂🎂
         "I wish you ",
         "more years of a sweet & happy life 😇 ",
         
-        "🍬 ",
-        "HAPPY BIRTHDAY 🎊SHWETA🎊",
+        "🍭🍬🍭🍬 ",
+        "🎊HAPPY BIRTHDAY🎊 🎊SHWETA🎊",
     ],
     /**
     need images
