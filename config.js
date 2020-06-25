@@ -8,7 +8,7 @@ var config = {
         "I wish you ",
         "more years of a sweet & happy life 😇 ",
         
-        "🍬",
+        "🍬 ",
         "HAPPY BIRTHDAY 🎊SHWETA🎊",
     ],
     /**
