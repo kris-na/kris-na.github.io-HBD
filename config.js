@@ -4,7 +4,7 @@ var config = {
     // lenth <15 words
     texts: [
         "To the ",      // comma at end of every sentence
-        "sweetest girl I know.",  // same as above
+        "sweetest girl I know",  // same as above
         "I wish you more years",
         "of a sweet life 😇",
         "🍬",
@@ -14,8 +14,8 @@ var config = {
     need images
      */
     imgs: {
-        "sweetest girl i know.": "./imgs/1.png",
-        "of a sweet life 😇 ": "./imgs/2.jpeg",
+        "sweetest girl I know": "./imgs/1.png",
+        "of a sweet life 😇": "./imgs/2.jpeg",
         "HAPPY BIRTHDAY 🎊SHWETA🎊": "./imgs/3.gif" ,
     },
     // button description
@@ -25,7 +25,7 @@ var config = {
         bannar_coming: "decoration 🎉",
         balloons_flying: "something missing??",
         cake_fadein: " Cake 🎂 ？",
-        light_candle: "candle🕯？",
+        light_candle: "candle ? ",
         wish_message: "happy birthday 🎁",
         story: "A MESSAGE FOR YOU ",
     }
