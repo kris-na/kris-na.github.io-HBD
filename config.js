@@ -15,7 +15,7 @@ var config = {
     need images
      */
     imgs: {
-        "Sweetest girl I know":"./xiaokeai.png" ,
+        "Sweetest girl I know":"./imgs/xiaokeai.png" ,
         "I wish you " : "./imgs/1.jpeg" ,
         "more years of a sweet & happy life 😇 ": "./imgs/2.jpeg",
         "HAPPY BIRTHDAY 🎊SHWETA🎊": "./imgs/3.gif" ,
