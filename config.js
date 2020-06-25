@@ -5,8 +5,8 @@ var config = {
     texts: [
         "To the ",      // comma at end of every sentence
         "sweetest girl I know",  // same as above
-        "I wish you more years",
-        "of a sweet life 😇",
+        "I wish you more years of a sweet life 😇 ",
+        
         "🍬",
         "HAPPY BIRTHDAY 🎊SHWETA🎊",
     ],
@@ -14,8 +14,9 @@ var config = {
     need images
      */
     imgs: {
-        "sweetest girl I know": "./imgs/1.jpeg",
-        "of a sweet life 😇": "./imgs/2.jpeg",
+         " To the ": "./xiaokeai.png" ,
+        "sweetest girl I know ": "./imgs/1.jpeg",
+        "I wish you more years of a sweet life 😇 ": "./imgs/2.jpeg",
         "HAPPY BIRTHDAY 🎊SHWETA🎊": "./imgs/3.gif" ,
     },
     // button description
