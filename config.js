@@ -15,7 +15,7 @@ var config = {
     need images
      */
     imgs: {
-        //"心爱的小可爱": "./imgs/xiaokeai.png",
+        "HAPPY BDAY": "./imgs/xiaokeai.png",
        // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // button description
