@@ -19,7 +19,7 @@ var config = {
         "Sweetest girl I know":"./imgs/xiaokeai.png" ,
         "I wish you " : "./imgs/1.jpeg" ,
         "more years of a sweet & happy life 😇 ": "./imgs/2.jpeg",
-        "HAPPY BIRTHDAY 🎊SHWETA🎊": "./imgs/3.gif" ,
+        "🎊HAPPY BIRTHDAY🎊 🎊SHWETA🎊": "./imgs/3.gif" ,
     },
     // button description
     desc: {
