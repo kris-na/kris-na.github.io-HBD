@@ -14,8 +14,9 @@ var config = {
     need images
      */
     imgs: {
-        "HAPPY BDAY": "./imgs/xiaokeai.png",
-       // "今天是你的生日": "./imgs/birthday.jpg",
+        "sweetest girl i know.": "./imgs/1.png",
+        "of a sweet life 😇 ": "./imgs/2.jpeg",
+        "HAPPY BIRTHDAY 🎊SHWETA🎊": "./imgs/3.gif" ,
     },
     // button description
     desc: {
