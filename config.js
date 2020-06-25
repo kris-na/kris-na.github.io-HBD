@@ -6,10 +6,9 @@ var config = {
         "To the ",      // comma at end of every sentence
         "sweetest girl I know.",  // same as above
         "I wish you more years",
-        "of a sweet life",
-        "and hope you remain the",
-        "sweet wonderful angel.",
-        "HAPPY BIRTHDAY SHWETA~~",
+        "of a sweet life 😇",
+        "🍬",
+        "HAPPY BIRTHDAY 🎊SHWETA🎊",
     ],
     /**
     need images
@@ -20,13 +19,13 @@ var config = {
     },
     // button description
     desc: {
-        turn_on: "lights on",
-        play: "play music",
-        bannar_coming: "decoration",
-        balloons_flying: "more",
-        cake_fadein: "cake？",
-        light_candle: "candle？",
-        wish_message: "happy birthday",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "lights on 💡",
+        play: "play music 🎸",
+        bannar_coming: "decoration 🎉",
+        balloons_flying: "something missing??",
+        cake_fadein: " Cake 🎂 ？",
+        light_candle: "candle🕯？",
+        wish_message: "happy birthday 🎁",
+        story: "A MESSAGE FOR YOU ",
     }
 };
