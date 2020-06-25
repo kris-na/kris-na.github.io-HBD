@@ -181,8 +181,8 @@ $('document').ready(function(){
 					$('.cake').fadeIn('fast');
 				});
                          
-	 	         $("p:nth-child(49)").fadeOut('slow').promise().done(function () {
-					$('."HAPPY BIRTHDAY SHWETA"').fadeIn('fast');
+	 	
+	
 			}
 			else{
 				msgLoop(i);
